@@ -1,6 +1,6 @@
 # Comprehensive genomic subtyping of glioma using semi-supervised multi-task deep learning on multimodal MRI
 
-## This repository contains the code developed for the work during the course of writing this paper. Note the data is not available to retrain the model. This code can be used on any other data as well.
+## This repository contains the code developed for the work described in this paper. Note the data is not available to retrain the model. This code can be used on any other data as well.
 
 ### Priyanka Tupe-Waghmare, Piyush Malpure, Ketan Kotecha, Manish Beniwal, Vani Santosh, Jitender Saini, and Madhura Ingalhalikar
 
